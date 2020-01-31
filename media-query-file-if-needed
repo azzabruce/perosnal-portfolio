@@ -1,0 +1,1547 @@
+@media  only screen and (max-width: 1456px){
+      /*------------------------------------------------Header Contanier----------------------------------*/
+
+    .logo{
+        width:40%;
+    }
+
+nav{
+	width:60%;
+	float:right;
+	padding-top:32px;
+	
+}
+nav a{
+	
+	padding:30px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    
+}
+@media  only screen and (max-width: 1450px){
+    /*--------------------------------------Skills Section Styles------------------------*/
+#skills{
+	height:1200px;
+    padding-top: 0px;
+}
+
+
+
+#skills-heading-container{
+    left: 6%;;
+    top:25%;
+}
+
+#skills-bars-container{
+    left:25%;
+}
+  
+.percentage{
+    position: absolute;
+    left:92%;    
+}
+
+
+.javascript-percentage{
+    left:68%;
+    padding-top:3px;
+}
+
+.wordpress-percentage{
+    left:86%;
+}
+
+.photoshop-percentage{
+    left:89%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    /*--------------------------------------Portfolio Section Styles----------------------------*/
+
+#portfolio-heading{
+    padding-top:170px;
+    padding-left: 70px;
+}
+
+.portfolio-sub-heading{
+	 font-size: 130%;
+      padding-left: 69px;
+}
+
+.img-responsive{
+    padding: 20px;
+    width:85%;
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+}
+
+@media  only screen and (max-width: 1390px){
+      /*------------------------------------------------Header Contanier----------------------------------*/
+
+.logo{
+        width:50%;
+    }
+
+nav{
+	width:50%;
+}
+nav a{
+	padding:25px;  
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    
+}
+@media  only screen and (max-width: 1369px){
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1100px;
+}
+
+.percentage{
+    position: absolute;
+    left:96%;    
+}
+
+
+.javascript-percentage{
+    left:70.9%;
+    padding-top:3px;
+}
+
+.wordpress-percentage{
+    left:89.5%;
+}
+
+.photoshop-percentage{
+    left:92.5%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+
+}
+
+
+@media  only screen and (max-width: 1365px){
+      /*------------------------------------------------Header Contanier----------------------------------*/
+
+    .logo{
+        width:50%;
+    }
+
+nav{
+	width:50%;
+	float:right;
+	padding-top:32px;
+	
+}
+nav a{
+	
+	padding:22px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1100px;
+}
+
+.percentage{
+    position: absolute;
+    left:96%;    
+}
+
+
+.javascript-percentage{
+    left:70.9%;
+    padding-top:3px;
+}
+
+.wordpress-percentage{
+    left:89.5%;
+}
+
+.photoshop-percentage{
+    left:92.5%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+
+}
+@media  only screen and (max-width: 1305px){
+      /*------------------------------------------------Header Contanier----------------------------------*/
+
+    .logo{
+        width:40%;
+    }
+
+nav{
+	width:50%;
+	float:right;
+	padding-top:32px;
+	
+}
+nav a{
+	
+	padding:21px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1000px;
+}
+#html-bar{
+        left:22%;
+}
+#css-bar{
+        left:22%;
+}
+#javascript-bar{
+    left:22%;
+}
+
+.percentage{
+    position: absolute;
+    left:100%;    
+}
+#javascript-bar{
+    left:22%;
+}
+
+.javascript-percentage{
+    left:75%;
+   
+}
+#wordpress-bar{
+    left:22%;
+}
+    
+.wordpress-percentage{
+    left:95%;
+}
+    
+#photoshop-bar{
+    
+    left:22%;
+    
+}
+
+.photoshop-percentage{
+    left:98%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 250%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+
+@media  only screen and (max-width: 1285px){
+      /*------------------------------------------------Header Contanier----------------------------------*/
+
+    .logo{
+        width:40%;
+    }
+
+nav{
+	width:50%;
+	float:right;
+	padding-top:32px;
+	
+}
+nav a{
+	
+	padding:18px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1000px;
+}
+#html-bar{
+        left:22%;
+    width:576px;
+}
+#css-bar{
+        left:22%;
+    width:576px;
+}
+#javascript-bar{
+    left:22%;
+}
+
+.percentage{
+    position: absolute;
+    left:100%;    
+}
+#javascript-bar{
+    left:22%;
+}
+
+.javascript-percentage{
+    left:76%;
+   
+}
+#wordpress-bar{
+    left:22%;
+}
+    
+.wordpress-percentage{
+    left:96%;
+}
+    
+#photoshop-bar{
+    
+    left:22%;
+    
+}
+
+.photoshop-percentage{
+    left:99%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+
+}
+
+@media  only screen and (max-width: 1223px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+.logo{
+        width:40%;
+    }
+
+nav{
+	width:60%;
+	float:right;
+	padding-top:32px;
+	
+}
+nav a{
+	
+	padding:27px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ /*-----------------------------------Home Section Styles---------------------------------------------*/  
+    #title{
+    
+    padding-top:30px;
+	padding-left:40px;
+	font-size: 80%;
+	
+}
+
+#intro{
+	width:65%;
+	left:20%;
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1000px;
+}
+#skills-bars-container{
+    
+    left:20%;
+    top:35%;
+    
+}
+#html-bar{
+        left:23%;
+    width:550px;
+}
+#css-bar{
+        left:23%;
+    width:550px;
+}
+
+#javascript-bar{
+    left:23%;
+}
+
+.javascript-percentage{
+    left:79.5%;
+   
+}
+#wordpress-bar{
+    left:23%;
+    width:510px;
+}
+    
+.wordpress-percentage{
+    left:94%;
+}
+    
+#photoshop-bar{
+     width:525px;
+    left:23%;
+    
+}
+
+.photoshop-percentage{
+    left:97%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 220%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+
+@media  only screen and (max-width: 1173px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+.logo{
+        width:40%;
+    }
+
+nav{
+	width:60%;
+	float:right;
+	padding-top:32px;
+	
+}
+nav a{
+	
+	padding:25px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ /*-----------------------------------Home Section Styles---------------------------------------------*/  
+    #title{
+    
+    padding-top:30px;
+	padding-left:40px;
+	font-size: 80%;
+	
+}
+
+#intro{
+	width:65%;
+	left:20%;
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1000px;
+}
+#skills-bars-container{
+    
+    left:20%;
+    top:35%;
+    
+}
+#html-bar{
+        left:25%;
+    width:495px;
+}
+#css-bar{
+        left:25%;
+    width:495px;
+}
+
+#javascript-bar{
+    left:25%;
+    width: 360px;
+}
+
+.javascript-percentage{
+    left:79.5%;
+   
+}
+#wordpress-bar{
+    left:25%;
+    width:455px;
+}
+    
+.wordpress-percentage{
+    left:94%;
+}
+    
+#photoshop-bar{
+     width:477px;
+    left:25%;
+    
+}
+
+.photoshop-percentage{
+    left:97%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    /*--------------------------------------Portfolio Section Styles----------------------------*/
+
+#portfolio-heading{
+     font-size: 380%;
+}
+
+.portfolio-sub-heading{
+	 font-size: 115%;
+}
+
+
+.img-responsive{
+   
+    width:90%;
+	
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 220%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+@media  only screen and (max-width: 1140px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+nav a{
+	
+	padding:23px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ @media  only screen and (max-width: 1106px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+
+nav a{
+	
+	padding:20px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ /*-----------------------------------Home Section Styles---------------------------------------------*/  
+    #title{
+    
+	font-size: 70%;
+	
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills-bars-container{
+    
+    left:22%;
+    top:35%;
+    
+}
+#html-bar{
+    left:26%;
+    width:478px;
+}
+#css-bar{
+        left:26%;
+    width:478px;
+}
+
+#javascript-bar{
+    left:26%;
+    width: 360px;
+}
+
+.javascript-percentage{
+    left:83%;
+   
+}
+#wordpress-bar{
+    left:26%;
+    width:440px;
+}
+    
+.wordpress-percentage{
+    left:95%;
+}
+    
+#photoshop-bar{
+     width:455px;
+    left:26%;
+    
+}
+
+.photoshop-percentage{
+    left:97%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    /*--------------------------------------Portfolio Section Styles----------------------------*/
+
+
+
+.portfolio-sub-heading{
+	 font-size: 110%;
+}
+
+
+.img-responsive{
+   
+    width:90%;
+	
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+.form-container{
+	
+
+	width:70%;
+	
+
+
+}
+
+.form-header{
+	font-size: 220%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+
+ @media  only screen and (max-width: 1056px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+
+nav a{
+	
+	padding:18px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ 
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills-bars-container{
+    
+    left:22%;
+    top:35%;
+    
+}
+#html-bar{
+    left:26%;
+    width:455px;
+}
+#css-bar{
+        left:26%;
+    width:455px;
+}
+
+#javascript-bar{
+    left:26%;
+    width: 350px;
+}
+
+.javascript-percentage{
+    left:83%;
+   
+}
+#wordpress-bar{
+    left:26%;
+    width:425px;
+}
+    
+.wordpress-percentage{
+    left:95%;
+}
+    
+#photoshop-bar{
+     width:435px;
+    left:26%;
+    
+}
+
+.photoshop-percentage{
+    left:97%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+.form-header{
+	font-size: 200%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+    
+@media  only screen and (max-width: 1023px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+
+nav a{
+	
+	padding:15px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ 
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills-bars-container{
+    
+    left:22%;
+    top:35%;
+    
+}
+#html-bar{
+    left:26%;
+    width:455px;
+}
+#css-bar{
+        left:26%;
+    width:455px;
+}
+
+#javascript-bar{
+    left:26%;
+    width: 350px;
+}
+
+.javascript-percentage{
+    left:83%;
+   
+}
+#wordpress-bar{
+    left:26%;
+    width:425px;
+}
+    
+.wordpress-percentage{
+    left:95%;
+}
+    
+#photoshop-bar{
+     width:435px;
+    left:26%;
+    
+}
+
+.photoshop-percentage{
+    left:97%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+.form-header{
+	font-size: 200%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}   
+    @media  only screen and (max-width: 1024px){
+    
+/*------------------------------------------------Header Contanier----------------------------------*/
+        
+.logo{
+     width:30%;       
+}
+
+nav{
+	width:70%;
+	
+
+}
+
+nav a{
+
+	font-size:150%;
+	padding:20px;
+ 
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    
+/*-----------------------------------Home Section Styles---------------------------------------------*/
+
+#home{
+
+	height:900px;
+	
+}
+
+#author-name-title{
+    
+	top:15%;
+	left:10%;
+	font-size:250%;
+	
+}
+
+
+#title{
+    
+   
+	padding-left:50px;
+	font-size: 75%;
+	
+}
+
+#intro{
+    top:25%;
+	width:70%;
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+/*--------------------------------------Skills Section Styles------------------------*/
+
+    #skills{
+	height:1000px;
+    padding-top: 100px;
+}
+
+
+#skills-heading{
+    font-size: 400%;
+}
+
+
+#skills-bars-container{
+    
+    left:20%;
+    width:70%;
+    height: 400px;
+
+}
+
+.html-title{
+    padding-left: 40px;
+}
+
+#html-bar{
+    position: absolute;
+    left:24%;
+}
+    
+.percentage{
+    position: absolute;
+    left:90%;
+    
+}
+
+
+#css-bar{
+    left:24%;
+}
+
+#javascript-bar{
+    left:24%;
+    top:34%;
+ 
+}
+
+.javascript-percentage{
+    left:75%;
+    padding-top:3px;
+}
+
+#wordpress-bar{
+    left:24%;
+    top:48%;
+}
+.wordpress-percentage{
+    left:86%;
+    padding-top:3px;
+}
+        
+#photoshop-bar{
+    left:24%;
+    top:62%;
+}
+.photoshop-percentage{
+    left:87%;
+}
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*--------------------------------------Portfolio Section Styles----------------------------*/
+
+#portfolio-heading{
+    padding-top:170px;
+}
+
+.portfolio-sub-heading{
+	 font-size: 120%;
+    
+}
+
+.img-responsive{
+    padding: 10px;
+    width:85%;
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+    /*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 180%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+
+}
+@media  only screen and (max-width: 1024px){
+    
+/*------------------------------------------------Header Contanier----------------------------------*/
+        
+.logo{
+     width:30%;       
+}
+
+nav{
+	width:70%;
+	
+
+}
+
+nav a{
+
+	font-size:150%;
+	padding:20px;
+ 
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    
+/*-----------------------------------Home Section Styles---------------------------------------------*/
+
+#home{
+	height:900px;
+}
+
+#author-name-title{
+	top:15%;
+	left:10%;
+	font-size:250%;
+}
+
+
+#title{
+	padding-left:50px;
+	font-size: 75%;
+}
+
+#intro{
+    top:25%;
+	width:70%;
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+/*--------------------------------------Skills Section Styles------------------------*/
+
+    #skills{
+	height:1000px;
+    padding-top: 100px;
+}
+
+
+#skills-heading{
+    font-size: 400%;
+}
+
+
+#skills-bars-container{
+    left:20%;
+    width:80%;
+    height: 400px;
+
+}
+
+.html-title{
+    padding-left: 40px;
+}
+
+#html-bar{
+    position: absolute;
+    left:24%;
+}
+    
+.percentage{
+    position: absolute;
+    left:83%;
+    
+}
+
+
+#css-bar{
+    left:24%;
+}
+
+#javascript-bar{
+    left:24%;
+    top:34%;
+}
+
+.javascript-percentage{
+    left:69%;
+   
+}
+
+.wordpress-percentage{
+    left:79%;
+    padding-top:3px;
+}
+        
+.photoshop-percentage{
+    left:80%;
+}
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*--------------------------------------Portfolio Section Styles----------------------------*/
+
+#portfolio-heading{
+    padding-top:170px;
+}
+
+.portfolio-sub-heading{
+	 font-size: 120%;  
+}
+
+.img-responsive{
+    padding: 10px;
+    width:85%;
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 180%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+
+}
+ @media  only screen and (max-width: 985px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+
+nav a{
+	
+	padding:18px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ 
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills-bars-container{
+    
+    left:22%;
+    top:35%;
+    
+}
+#html-bar{
+    left:26%;
+    width:455px;
+}
+#css-bar{
+        left:26%;
+    width:455px;
+}
+
+#javascript-bar{
+    left:26%;
+    width: 350px;
+}
+
+.javascript-percentage{
+    left:83%;
+   
+}
+#wordpress-bar{
+    left:26%;
+    width:425px;
+}
+    
+.wordpress-percentage{
+    left:95%;
+}
+    
+#photoshop-bar{
+     width:435px;
+    left:26%;
+    
+}
+
+.photoshop-percentage{
+    left:97%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+.form-header{
+	font-size: 200%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+     @media  only screen and (max-width: 980px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+
+nav a{
+	
+	padding:18px;
+    
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+ 
+    /*--------------------------------------Skills Section Styles------------------------*/
+
+#skills-bars-container{
+    
+    left:17%; 
+}
+#html-bar{
+    left:26%;
+    width:432px;
+}
+#css-bar{
+    left:26%;
+    width:432px;
+}
+
+#javascript-bar{
+    left:26%;
+    width: 345px;
+}
+
+.javascript-percentage{
+    left:72%;
+   
+}
+#wordpress-bar{
+    left:26%;
+    width:385px;
+}
+    
+.wordpress-percentage{
+    left:77%;
+}
+    
+#photoshop-bar{
+     width:410px;
+    left:26%;
+    
+}
+
+.photoshop-percentage{
+    left:81%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+.form-header{
+	font-size: 190%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+     @media  only screen and (max-width: 879px){
+  
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+        
+
+nav{
+	width:70%;
+	
+
+}
+
+nav a{
+	padding:15px; 
+}
+
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    
+/*-----------------------------------Home Section Styles---------------------------------------------*/
+
+#home{
+	height:900px;
+}
+
+#author-name-title{
+	font-size:230%;
+}
+
+
+#title{
+	padding-left:50px;
+	font-size: 70%;
+}
+
+#intro{
+    left:10%;
+	width:80%;
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+/*--------------------------------------Skills Section Styles------------------------*/
+
+#skills{
+	height:1000px;
+    padding-top: 100px;
+}
+
+
+#skills-bars-container{
+    left:15%;
+    width:85%;
+}
+
+.html-title{
+    padding-left: 40px;
+}
+
+#html-bar{
+   
+    left:24%;
+}
+    
+.percentage{
+    left:85%;  
+}
+
+
+#css-bar{
+    left:24%;
+}
+
+#javascript-bar{
+    left:24%;
+}
+
+.javascript-percentage{
+    left:73%;
+   
+}
+#wordpress-bar{
+    left:24%;
+}
+.wordpress-percentage{
+    left:78%;
+    padding-top:3px;
+}
+ #photoshop-bar{
+    left:24%;
+}       
+.photoshop-percentage{
+    left:82%;
+}
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*--------------------------------------Portfolio Section Styles----------------------------*/
+
+#portfolio-heading{
+    padding-top:170px;
+}
+
+.portfolio-sub-heading{
+	 font-size: 120%;  
+}
+
+.img-responsive{
+    padding: 10px;
+    width:85%;
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+/*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 170%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}
+@media only screen and (max-width:836px){
+        /*------------------------------------------------Header Contanier----------------------------------*/
+
+
+    .logo{
+        width:80px;
+    }
+nav a{
+    display:none;
+    }
+    
+    
+.nav-btn > label{
+            
+            display:inline-block;
+            float:right;
+            height:50px;
+            width:50px;
+            padding-top:40px;
+            margin-right:50px;
+
+    }
+    
+     .nav-btn > label > span{
+        display:block;
+        float:right;
+        width:30px;
+        height:10px;
+    
+        margin-right:50px;
+        border-top: 2px solid #ff66cc;
+        
+    }
+    #nav-check:not(:checked) + nav {
+        height: 0px;
+    }
+    
+    #nav-check:checked + nav {
+         height:calc(100vh - 50px);
+         overflow-y: auto;
+    } 
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+    
+/*-----------------------------------Home Section Styles---------------------------------------------*/
+
+#home{
+
+	height:1100px;
+	
+}
+
+#author-name-title{
+    
+	top:15%;
+	left:15%;
+	font-size:290%;
+	
+}
+
+
+#title{
+    
+    padding-top:30px;
+	padding-left:10px;
+	font-size: 90%;
+	
+}
+
+#intro{
+	width:50%;
+}
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+/*--------------------------------------Skills Section Styles------------------------*/
+
+    #skills{
+	height:1200px;
+    padding-top: 120px;
+}
+
+#skills-heading-container{
+    position: relative;
+    text-align: center;
+    top:25%;
+    padding-top: 50px;
+}
+
+#skills-heading{
+    font-size: 400%;
+}
+
+#love-coding{
+	font-size: 160%;	
+}
+
+#skills-bars-container{
+    
+    position: relative;
+    left:20%;
+    top:33%;
+    width:60%;
+    height: 400px;
+
+}
+
+.html-title{
+    padding-left: 40px;
+}
+
+#html-bar{
+    position: absolute;
+    left:20%;
+    top:4.5%;
+}
+    
+.percentage{
+    position: absolute;
+    left:90%;
+    
+}
+
+.css-title{
+     
+    padding-left:80px;
+}
+
+#css-bar{
+    left:20%;
+    top:19%;
+}
+
+#javascript-bar{
+    left:20%;
+    top:34%;
+ 
+}
+
+.javascript-percentage{
+    left:67%;
+    padding-top:3px;
+}
+
+#wordpress-bar{
+    left:20%;
+    top:48%;
+}
+.wordpress-percentage{
+    left:84%;
+    padding-top:3px;
+}
+
+
+
+#photoshop-bar{
+    left:20%;
+    top:62%;
+}
+
+.photoshop-percentage{
+padding-top:2px;
+    left:87%;
+}
+
+
+
+/*--------------------------------------Skills Section Style--------------------------*/ 
+    
+/*--------------------------------------Portfolio Section Styles----------------------------*/
+
+#portfolio-heading{
+    padding-top:170px;
+}
+
+.portfolio-sub-heading{
+	 font-size: 130%;
+}
+
+.img-responsive{
+    padding: 20px;
+    width:85%;
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+    /*---------------------------------------Contact Section Styles Start---------------------*/
+
+
+
+.form-header{
+	font-size: 150%;
+
+    }
+/*---------------------------------------Contact Section Styles End--------------------*/
+}

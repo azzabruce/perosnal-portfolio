@@ -1,0 +1,526 @@
+@charset "utf-8";
+/* CSS Document */
+/*-----------------------------------------------------Global style---------------------------------*/
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+html, body{
+	
+    overflow-x: hidden;
+	color:white;
+	height:100%;
+    
+}
+
+/*-----------------------------------End of Global style--------------------------------------------*/
+
+/*------------------------------------------------Header Contanier----------------------------------*/
+
+.header-container{
+	
+	background-color:rgba(99,99,99,.8); 
+	box-shadow:  0px 1px 30px 1px #ff66cc;
+	position: absolute;	
+	width:100%;
+  
+	
+}
+
+
+.logo{
+	
+	width:40%;
+	float:left;
+	padding:10px;
+	
+}
+
+nav{
+	width:60%;
+	float:left;
+	padding:28px;
+	
+}
+
+nav a{
+	
+	font-size:170%;
+	text-decoration: none;
+	color:#999999;
+	font-family: Magneto, 'Oleo Script', cursive;
+	font-weight: bold;
+	padding:40px;
+    
+}
+
+nav a:hover{
+	
+	color: rgb(63, 71, 77);
+}
+
+#nav-home-tab{
+
+	color:rgba(255,102,204,1.00);
+}
+#nav-check{
+    
+    display:none;
+    
+}
+/*-----------------------------Header Contanier End--------------------------------------------------*/
+/*-----------------------------------Home Section Styles---------------------------------------------*/
+#home{
+	
+	background-image:url(../images/home-image-resized.jpg);
+	height:1200px;
+	background-repeat:no-repeat;
+	background-position:top;
+	background-attachment: fixed;
+	background-size: cover;
+    transition: all 0.3s ease-in;
+	
+}
+
+
+
+#author-name-title{
+    position:relative;
+	top:20%;
+	left:20%;
+	font-size:300%;
+	color:white;
+	font-family: 'Engravers MT', 'Bentham', serif;
+	line-height: 1.5;
+}
+
+#author-name-apostrophe, #author-home-title-and{
+	color:#ff66cc;
+}
+
+
+#title{
+    
+    padding-top:30px;
+	padding-left:10px;
+	font-size: 100%;
+	
+}
+
+#intro{
+	position: relative;
+	width:40%;
+	background-color:#3F474D;
+	left:30%;
+	top:40%;
+	border: 2px solid #ff66cc;
+	box-shadow:  5px 5px 15px 1px #ff66cc;
+}
+
+
+
+
+#home-intro-paragraph{
+	
+	color:white;
+	font-size: 140%;
+    text-align: center;
+	line-height: 2;
+	padding:50px;
+	
+   
+	
+}
+
+#home-intro-paragraph a{
+	text-decoration: none;
+	color:#ff66cc;
+}
+
+.fa-smile{
+	color:#ff66cc;
+}
+
+ #resume{
+
+
+    cursor: pointer;
+    padding: 10px;
+    background-color: #ff66cc;
+     margin-top:6%;
+    margin-left:3%;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 5px 8px 15px 5px #333333;
+    color: white;
+    width:250px;
+    text-align: center;
+    font-size: 100%;
+}
+
+
+/*-----------------------------------------------------Home Section Styles End--------------------------*/
+
+/*--------------------------------------Skills Section Styles------------------------*/
+#skills{
+    
+    background-image: url(../images/pedro-henrique-santos-375149-unsplash.jpg);
+	height:900px;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	background-attachment: fixed;
+	background-size: cover;
+    padding-top: 100px;
+    transition: all 0.3s ease-in;
+
+}
+
+
+#skills-heading-container{
+    position: relative;
+    text-align: center;
+    top:25%;
+    padding-top: 50px;
+    
+   
+}
+
+#skills-heading{
+    font-size: 400%;
+    letter-spacing: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: 'Engravers MT', 'Bentham', serif;
+   
+    
+}
+
+#love-coding{
+	font-size: 130%;
+	font-family: 'Engravers MT', 'Bentham', serif;
+	color:white;
+	font-weight: 100;
+    letter-spacing: 5px;
+     
+	
+}
+
+#skills-bars-container{
+    position: relative;
+    left:28%;
+    top:35%; 
+}
+
+.skills-bars, .skills-title{
+    
+    padding:10px;
+    top:30%;
+}
+
+.html-title{
+    
+    padding-left: 40px;
+}
+
+#html-bar{
+    
+    position: absolute;
+    width:600px;
+    height:20px;
+    background-color: #ff66cc;
+    left:9%;
+    top:6.5%;
+  
+}
+.percentage{
+    position: absolute;
+    left:41%;
+    
+}
+
+.css-title{
+    padding-left:80px;
+}
+
+#css-bar{
+    
+    position: absolute;
+    width:600px;
+    height:20px;
+    background-color: #ff66cc;
+    left:9%;
+    top:26%;
+ 
+}
+
+#javascript-bar{
+    
+    position: absolute;
+    width:400px;
+    height:20px;
+    background-color: #ff66cc;
+    left:9%;
+    top:47%;
+ 
+}
+
+.javascript-percentage{
+     position: absolute;
+    left:30.4%;
+}
+
+#wordpress-bar{
+    position: absolute;
+    width:550px;
+    height:20px;
+    background-color: #ff66cc;
+    left:9%;
+    top:67%;
+}
+.wordpress-percentage{
+    position: absolute;
+    left:38.4%;
+}
+
+
+
+#photoshop-bar{
+    position: absolute;
+    width:575px;
+    height:20px;
+    background-color: #ff66cc;
+    left:9%;
+    top:87%;
+}
+
+.photoshop-percentage{
+    position: absolute;
+    left:39.5%;
+	
+}
+
+
+
+/*--------------------------------------Skills Section Styles End---------------------------*/
+/*--------------------------------------Portfolio Section Styles----------------------------*/
+#portfolio{
+    
+    background-color:#2B2C2E;
+	height:2000px;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	background-attachment: fixed;
+	background-size: cover;
+    
+}
+
+#portfolio-heading{
+    font-size: 400%;
+    padding-top:200px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Engravers MT', 'Bentham', serif;
+	letter-spacing: 20px;
+}
+
+.portfolio-sub-heading{
+	font-size: 150%;
+	margin-top: 100px;
+	margin-bottom: 80px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Engravers MT', 'Bentham', serif;
+	letter-spacing: 20px;
+}
+
+.portfolio-rows{
+	padding-bottom: 300px;
+}
+
+.image-link-section{
+   text-align: center;
+    padding-bottom:50px;
+	width:33.33%;
+	float:left;
+}
+.img-responsive{
+    padding: 20px;
+    width:70%;
+	box-shadow: 1px 1px 9px 7px #ff66cc;
+}
+.img-responsive:hover{
+	opacity: .5;
+}
+/*--------------------------------------Portfolio Section Styles End----------------------------*/
+/*--------------------------------------Testimonial Section Styles Start----------------------------*/
+#testimonial{
+    background-image: url(../images/miltos-bottis-612219-unsplash.jpg);
+	height: 1100px;
+	text-align: center;
+	padding:100px;
+    background-repeat:no-repeat;
+	background-position:bottom;
+	background-attachment: fixed;
+	background-size: cover;
+   
+  
+/*---------------Amy Parke Testimonial Section Style Start----------------------*/
+}
+.testimonial-heading{
+    font-size:400%;
+     font-family: 'Engravers MT', 'Bentham', serif;
+    margin-bottom: 100px;
+    letter-spacing: 20px;
+}
+.testimonial-AmyParke,
+.testimonial-John-Lee,
+.testmonial-Khan-Sajjad{
+	width:33.33%;
+    float: left;
+}
+.testimonial-image{
+	border-radius: 50%;
+    border:solid 10px #ff66cc;
+	width:300px;
+	text-align: center;
+	margin-bottom: 20px;
+    padding:20px;
+}
+.testimonial-paragraph{
+	line-height: 2;
+   padding:20px;
+    font-size: 110%;
+     font-weight: 900;
+}
+.testimonial-paragraph a{
+    text-decoration: none;
+    color: #ff66cc;
+   
+}
+/*---------------Amy Parke Testimonial Section Style End------------------*/
+
+/*--------------------------------------Testimonial Section Styles End----------------------------*/
+/*---------------------------------------Contact Section Styles Start---------------------*/
+#contact{
+    
+    background-image:url(../images/lior-mazliah-111379-unsplash.jpg);
+	height:900px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.form-container{
+	
+
+	width:50%;
+	margin:auto;
+	padding:20px;
+	border-radius:10px;
+	color: white;
+	text-align: center;
+}
+
+.form-header{
+    
+	font-size: 400%;
+	text-align: center;
+	width:100%;
+    padding:100px;
+    font-family: 'Engravers MT', 'Bentham', serif;
+    letter-spacing: 20px;
+    
+}
+
+label{
+	
+	font-size: 150%;
+	border-radius:8px;
+}
+
+input{
+	
+	font-size: 150%;
+	width:100%;
+	margin-bottom:40px;
+	border-radius:8px;
+/*	border:1px solid #4D1313;*/
+	
+}
+
+textarea{
+	
+	font-size: 150%;
+	width:100%;
+	height: 150px;
+	resize: none;
+	border-radius:8px;
+/*	border:1px solid #4D1313;*/
+	font-family:  "Times New Roman";
+	text-align: center;
+	padding-top:50px;
+}
+
+input[type=submit]{
+	
+	font-size: 150%;
+	width:100%;
+	margin-bottom:40px;
+	border-radius:8px;
+	background-color:  #2b2c2e;
+	border: 0;
+	margin-top:20px;
+	color: white;
+	padding:4px;
+	
+/*	border:1px solid #4D1313;*/
+	
+}
+input[type=submit]:hover{
+	
+	background-color:rgba(191,88,191,.5);
+	cursor: pointer;
+	
+	
+	
+/*	border:1px solid #4D1313;*/
+	
+}
+/*---------------------------------------Contact Section Styles End--------------------*/
+
+/*---------------------------Footer Section Start-------------------------------------*/
+footer{
+   
+    position: relative;
+    padding-bottom:0px;
+    color:#ff66cc;
+    background-color: #2b2c2e;
+    text-align: center;
+
+}
+
+.fab {
+    display: block;
+    padding:30px;
+    text-decoration: none;
+    color:white;
+    font-size: 200%;
+    
+    
+}
+
+.copy-rights {
+    
+    padding-bottom: 20px;
+    font-size: 100%;
+   
+}
+ 
+    
+
+/*---------------------------Footer Section End------------------------------------*/
+
